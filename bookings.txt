@@ -1,0 +1,7 @@
+
+
+B102|Sumera|45|103UP/104DN|Subak Kharam Express|Luxury|2000|0
+B103|salman|15|103UP/104DN|Subak Kharam Express|Luxury|1000|50
+B100|MARYAM|18|07UP/08DN|Tezgam Express|Luxury|1000|50
+B101|ganja|25|07UP/08DN|Tezgam Express|Luxury|2000|0
+B102|wani|19|07UP/08DN|Tezgam Express|Luxury|1000|50
