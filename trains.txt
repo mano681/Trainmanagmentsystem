@@ -10,6 +10,6 @@ Awam Express|13UP/14DN|Karachi to Peshawar|Karachi|Peshawar|Rohri, Multan, Lahor
 Hazara Express|11UP/12DN|Karachi to Havelian|Karachi|Havelian|Multan, Lahore, Rawalpindi|06:35 am|04:40 pm (Next Day)|70|0|70|35 Economy seats, 18 AC seats, 17 Luxury seats
 Khyber Mail|01UP/02DN|Karachi to Peshawar|Karachi|Peshawar|Hyderabad, Multan, Lahore|10:15 pm|05:20 am (The 3rd Day)|70|35|35|18 Economy seats, 9 AC seats, 8 Luxury seats 
 Shah Hussain Express|43UP/44DN|Lahore to Multan|Lahore|Multan|Khanewal, Sahiwal, Okara|01:15 am|09:00 am|70|2|70|35 Economy seats, 18 AC seats, 17 Luxury seats
-Tezgam Express|07UP/08DN|Lahore to Multan|Lahore|Multan|Khanewal, Sahiwal|01:05 pm|06:45 pm|70|41|35|18 Economy seats, 9 AC seats, 8 Luxury seats 
+Tezgam Express|07UP/08DN|Lahore to Multan|Lahore|Multan|Khanewal, Sahiwal|01:05 pm|06:45 pm|70|39|35|18 Economy seats, 9 AC seats, 8 Luxury seats 
 Bahuddin Zakaria Express|25UP/26DN|Karachi to Multan|Karachi|Multan|Hyderabad, Rohri, Rawalpindi|06:30 pm|11:30 am|70|35|35|18 Economy seats, 9 AC seats, 8 Luxury seats 
-Fareed Express|37UP/38DN|Karachi to Lahore|Karachi|Lahore|Hyderabad, Khanewal, Sahiwal|7:35|8:35|70|4|70|35 Economy seats, 18 AC seats, 17 Luxury seats
+Fareed Express|37UP/38DN|Karachi to Lahore|Karachi|Lahore|Hyderabad, Khanewal, Sahiwal|7:35|8:35|70|7|70|35 Economy seats, 18 AC seats, 17 Luxury seats
